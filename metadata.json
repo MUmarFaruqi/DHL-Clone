@@ -1,0 +1,7 @@
+{
+  "name": "GlobalShip Express",
+  "description": "A high-performance logistics and shipping platform inspired by DHL, featuring real-time tracking, rate calculation, and an AI-powered logistics assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
